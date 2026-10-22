@@ -3,3 +3,5 @@ Lista de Itens:
 - Arroz
 - Feijão
 - Macarrão
+- Café
+- Açúcar
