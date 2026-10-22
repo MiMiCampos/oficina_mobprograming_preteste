@@ -1,1 +1,5 @@
-Lista de 
+Lista de Itens:
+
+- Arroz
+- Feijão
+- Macarrão
